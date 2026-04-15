@@ -1,0 +1,16 @@
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node
+node_modules/
+
+# Environment variables — NEVER commit secrets
+.env
