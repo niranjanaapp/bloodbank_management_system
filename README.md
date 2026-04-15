@@ -19,7 +19,7 @@ The Blood Bank Management System is a web application designed to simplify and s
 ---
 
 ## 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript *(or React if you used it)*  
+- Frontend: HTML, CSS, JavaScript   
 - Deployment: Vercel  
 
 ---
