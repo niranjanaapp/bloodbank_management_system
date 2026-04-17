@@ -10,7 +10,7 @@ The Blood Bank Management System is a web application designed to simplify and s
 ---
 
 ## ✨ Features
-- 🔍 Search for blood donors بسهولة  
+- 🔍 Search for blood donors 
 - 🧑‍🤝‍🧑 Donor registration system  
 - 🩸 Blood request functionality  
 - 📱 Responsive and user-friendly UI  
